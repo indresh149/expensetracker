@@ -29,6 +29,9 @@
       "eas": {
         "projectId": "cde6f985-bf60-445d-ac9a-a184b756d8dd"
       }
+    },
+    "android": {
+      "package": "com.indresh149.boltexponativewind"
     }
   }
 }
